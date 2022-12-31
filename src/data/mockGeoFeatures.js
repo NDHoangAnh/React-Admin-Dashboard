@@ -1,3 +1,4 @@
+// nivo chart require this up so i have the geography world map basically
 export const geoFeatures = {
     type: "FeatureCollection",
     features: [
