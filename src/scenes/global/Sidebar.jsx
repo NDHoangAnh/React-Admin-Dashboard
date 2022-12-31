@@ -151,7 +151,7 @@ const SideBar = () => {
                         <Item
                             title='Contacts Information'
                             icon={<ContactsOutlinedIcon />}
-                            to='/contatcs'
+                            to='/contacts'
                             selected={selected}
                             setSelected={setSelected}
                         />
