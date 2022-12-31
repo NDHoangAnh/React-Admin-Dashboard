@@ -3,7 +3,7 @@ Libraries used in this project:
 - material ui
 - nivo charts
 - full calendar
-- formik
+- formik (often used with material UI, and react-hook-form used with tailwindCSS)
 - yup validation
 - react pro sidebar
 - google fonts
